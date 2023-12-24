@@ -1,5 +1,1 @@
-This is a placeholder
-
-I want to change this
-
-now for real
+I want to create a little website to ask my crush out on a date.
