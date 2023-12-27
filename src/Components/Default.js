@@ -1,11 +1,23 @@
 import React from "react";
+import './Default.css';
 
 const DefaultComponent = () => {
     return (
         
 
         <div id="window">
-            <img src="https://media3.giphy.com/media/100QWMdxQJzQC4/giphy.gif?cid=ecf05e47xwcn8a61qbyfvh28h6rqb3n4i49i7rdo9jt0tcbc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="doggo"/>
+            <section class="header">
+                <divc class="title-wrapper">
+                    <h1 class="sweet-title">
+                        <span data-text="Go On">Go On </span>
+                        <span data-text="A Date">A Date</span>
+                    </h1>
+                    <span class="top-title">Hey Luna :&#41; <br/>
+                    Will You</span>
+
+                    <span class="bottom-title">With Me?</span>
+                </divc>
+            </section>
             <div id="buttons">
                 <button>Yes!
                 </button>
